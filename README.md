@@ -1,17 +1,73 @@
-# News Application
+# 📰 Dev News App
 
-A new Flutter project.
+A simple Flutter news application that fetches and displays the latest news using API integration.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshot
 
-A few resources to get you started if this is your first Flutter project:
+<img width="1920" height="1080" alt="Screenshot 2026-05-18 135632" src="https://github.com/user-attachments/assets/7222cf3d-1f1f-4f2d-89bc-1c745594b293" />
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- Fetch latest news from API
+- Display headlines and descriptions
+- Responsive UI
+- Network image support
+- Flutter Web support
+
+---
+
+## 🛠️ Technologies Used
+
+- Flutter
+- Dart
+- HTTP Package
+- REST API
+
+---
+
+## 📦 Installation
+
+### 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/your-username/dev-news-app.git
+```
+
+### 2️⃣ Open Project
+
+```bash
+cd dev-news-app
+```
+
+### 3️⃣ Install Dependencies
+
+```bash
+flutter pub get
+```
+
+### 4️⃣ Run App
+
+```bash
+flutter run
+```
+
+---
+
+## 📁 Project Structure
+
+```bash
+lib/
+ ├── main.dart
+ 
+
+---
+
+
+## 👨‍💻 Author
+
+Dev Pawar
+
+---
